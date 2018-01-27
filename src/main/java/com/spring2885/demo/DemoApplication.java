@@ -1,12 +1,12 @@
-package com.cis2886.demo;
+package com.spring2885.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SeniorProject2886Application {
+public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SeniorProject2886Application.class, args);
+		SpringApplication.run(DemoApplication.class, args);
 	}
 }

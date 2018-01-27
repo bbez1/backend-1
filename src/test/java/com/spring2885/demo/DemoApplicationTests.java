@@ -1,4 +1,4 @@
-package com.cis2886.demo;
+package com.spring2885.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SeniorProject2886ApplicationTests {
+public class DemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
